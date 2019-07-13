@@ -1,4 +1,4 @@
-# Pythonprograms
+# Interest Rate Calculation_Python
 Dream house
 - calculates how long it would take you to save enough money to pay the down payment for your dream house. 
   You will ask the user for their annual salary, the percent of the salary they’d want to save, and the cost of their dream home.
